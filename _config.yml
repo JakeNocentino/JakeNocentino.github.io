@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: jakenocentino.github.io
+title: nocentino.dev
 email: jrnocentino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jake Nocentino's Personal Website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jakenocentino.github.io"
+url: "https://nocentino.dev"
 # twitter_username: jekyllrb
 github_username:  JakeNocentino
 
@@ -53,6 +53,9 @@ author:
   bio: "Software Engineer, Enthusiast of Many Things"
   location: "Seattle, WA"
   links:
+    - label: "Amazon"
+      icon: "fa-solid fa-briefcase"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jacob-nocentino/"
