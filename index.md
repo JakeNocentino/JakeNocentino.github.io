@@ -5,3 +5,7 @@
 layout: home
 author_profile: true
 ---
+Welcome to my website! Have a look around, stay for a while ☕
+
+## Leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JakeNocentino)](https://leetcode.com/JakeNocentino)
